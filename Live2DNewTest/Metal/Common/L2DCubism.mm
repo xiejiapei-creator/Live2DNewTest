@@ -1,8 +1,8 @@
 //
-//  L2DCubism.m
-//  Live2DNewTest
+//  L2DCubism.mm
+//  iOSLive2DDemo
 //
-//  Created by 谢佳培 on 2022/8/17.
+//  Created by VanJay on 2020/12/19.
 //
 
 #import <Foundation/Foundation.h>

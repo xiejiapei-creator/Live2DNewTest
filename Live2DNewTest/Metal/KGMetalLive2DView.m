@@ -1,8 +1,8 @@
 //
 //  KGMetalLive2DView.m
-//  Live2DNewTest
+//  iOSLive2DDemo
 //
-//  Created by 谢佳培 on 2022/8/17.
+//  Created by VanJay on 2020/12/19.
 //
 
 #import "KGMetalLive2DView.h"

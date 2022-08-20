@@ -1,8 +1,8 @@
 //
-//  L2DBufferIndex.h
-//  Live2DNewTest
+//  L2DBufferIndex
+//  iOSLive2DDemo
 //
-//  Created by 谢佳培 on 2022/8/17.
+//  Created by VanJay on 2020/12/19.
 //
 
 #ifndef L2DBufferIndex_h

@@ -1,8 +1,8 @@
 //
 //  UIColor+Live2D.m
-//  Live2DNewTest
+//  iOSLive2DDemo
 //
-//  Created by 谢佳培 on 2022/8/17.
+//  Created by VanJay on 2020/12/20.
 //
 
 #import "UIColor+Live2D.h"

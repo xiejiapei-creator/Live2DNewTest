@@ -1,8 +1,8 @@
 //
 //  MetalLive2DViewController.m
-//  Live2DNewTest
+//  iOSLive2DDemo
 //
-//  Created by 谢佳培 on 2022/8/17.
+//  Created by VanJay on 2021/3/13.
 //
 
 #import "MetalLive2DViewController.h"
