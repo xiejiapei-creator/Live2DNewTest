@@ -1,8 +1,8 @@
 //
 //  L2DUserModel.mm
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2020/12/19.
+//  Created by 谢佳培 on 2022/8/17.
 //
 
 #import "L2DUserModel.h"

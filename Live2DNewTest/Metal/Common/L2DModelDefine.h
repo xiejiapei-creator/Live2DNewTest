@@ -1,9 +1,10 @@
 //
 //  L2DModelDefine.h
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2021/2/3.
+//  Created by 谢佳培 on 2022/8/17.
 //
+
 
 #import <Foundation/Foundation.h>
 

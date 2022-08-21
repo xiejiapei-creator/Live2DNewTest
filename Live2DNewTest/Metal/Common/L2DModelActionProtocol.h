@@ -1,8 +1,8 @@
 //
 //  L2DModelActionProtocol.h
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2021/3/15.
+//  Created by 谢佳培 on 2022/8/17.
 //
 
 #ifndef L2DModelActionProtocol_h

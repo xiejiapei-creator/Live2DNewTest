@@ -1,8 +1,8 @@
 //
 //  MetalLive2DViewController.m
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2021/3/13.
+//  Created by 谢佳培 on 2022/8/17.
 //
 
 #import "MetalLive2DViewController.h"
@@ -25,7 +25,7 @@
     self = [super init];
     if (self) {
         // Metal 可异步渲染
-        _renderQueue = dispatch_queue_create("com.virtualsingler.render.home", DISPATCH_QUEUE_CONCURRENT);
+        _renderQueue = dispatch_queue_create("com.xiejiapei.render.home", DISPATCH_QUEUE_CONCURRENT);
     }
     return self;
 }

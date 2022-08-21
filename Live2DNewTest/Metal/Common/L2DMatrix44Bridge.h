@@ -1,8 +1,8 @@
 //
 //  L2DMatrix44Bridge.h
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2021/3/15.
+//  Created by 谢佳培 on 2022/8/17.
 //
 
 #import <Foundation/Foundation.h>

@@ -1,8 +1,8 @@
 //
 //  MetalLive2DViewController.h
-//  iOSLive2DDemo
+//  Live2DNewTest
 //
-//  Created by VanJay on 2021/3/13.
+//  Created by 谢佳培 on 2022/8/17.
 //
 
 #import <UIKit/UIKit.h>
