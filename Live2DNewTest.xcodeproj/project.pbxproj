@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		74D908952EC86DC4F373A5F8 /* Pods_Live2DNewTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D7A13188D89D8F42F5104DC /* Pods_Live2DNewTest.framework */; };
+		49A6079355FB4B011846F9FB /* libPods-Live2DNewTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FF089F2DCC64F4E0008D953 /* libPods-Live2DNewTest.a */; };
 		E96B1D9D28ACDE6800678943 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E96B1D9C28ACDE6800678943 /* Assets.xcassets */; };
 		E96B1DA028ACDE6800678943 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E96B1D9E28ACDE6800678943 /* LaunchScreen.storyboard */; };
 		E96B1DA328ACDE6800678943 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B1DA228ACDE6800678943 /* main.m */; };
@@ -26,7 +26,6 @@
 		E96B24BB28AD06DA00678943 /* SBProductioEmotionExpression.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B24B928AD06DA00678943 /* SBProductioEmotionExpression.m */; };
 		E96B24BC28AD06DA00678943 /* UIColor+Live2D.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B24BA28AD06DA00678943 /* UIColor+Live2D.m */; };
 		E96B24C028AD077600678943 /* MetalLive2DViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B24BF28AD077600678943 /* MetalLive2DViewController.m */; };
-		E96B24C328AD077F00678943 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B24C228AD077F00678943 /* ViewController.m */; };
 		E96B24C628AD078900678943 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E96B24C528AD078900678943 /* AppDelegate.m */; };
 		E96B252628AD0AE000678943 /* CubismJson.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E96B24CA28AD0AE000678943 /* CubismJson.cpp */; };
 		E96B252728AD0AE000678943 /* CubismString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E96B24CB28AD0AE000678943 /* CubismString.cpp */; };
@@ -69,8 +68,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1D7A13188D89D8F42F5104DC /* Pods_Live2DNewTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Live2DNewTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		42057C50B8260B796DE030D2 /* Pods-Live2DNewTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Live2DNewTest.release.xcconfig"; path = "Target Support Files/Pods-Live2DNewTest/Pods-Live2DNewTest.release.xcconfig"; sourceTree = "<group>"; };
+		4FF089F2DCC64F4E0008D953 /* libPods-Live2DNewTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Live2DNewTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		54ECB69BE3B286CA5E5CF049 /* Pods-Live2DNewTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Live2DNewTest.debug.xcconfig"; path = "Target Support Files/Pods-Live2DNewTest/Pods-Live2DNewTest.debug.xcconfig"; sourceTree = "<group>"; };
 		E96B1D8D28ACDE6700678943 /* Live2DNewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Live2DNewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96B1D9C28ACDE6800678943 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -109,8 +108,6 @@
 		E96B24BA28AD06DA00678943 /* UIColor+Live2D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Live2D.m"; sourceTree = "<group>"; };
 		E96B24BE28AD077600678943 /* MetalLive2DViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MetalLive2DViewController.h; sourceTree = "<group>"; };
 		E96B24BF28AD077600678943 /* MetalLive2DViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MetalLive2DViewController.m; sourceTree = "<group>"; };
-		E96B24C128AD077F00678943 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E96B24C228AD077F00678943 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E96B24C428AD078900678943 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E96B24C528AD078900678943 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		E96B24CA28AD0AE000678943 /* CubismJson.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CubismJson.cpp; sourceTree = "<group>"; };
@@ -204,7 +201,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74D908952EC86DC4F373A5F8 /* Pods_Live2DNewTest.framework in Frameworks */,
+				49A6079355FB4B011846F9FB /* libPods-Live2DNewTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,7 +211,7 @@
 		237FB47ADAB7C14F696647E3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				1D7A13188D89D8F42F5104DC /* Pods_Live2DNewTest.framework */,
+				4FF089F2DCC64F4E0008D953 /* libPods-Live2DNewTest.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -343,8 +340,6 @@
 			children = (
 				E96B24C428AD078900678943 /* AppDelegate.h */,
 				E96B24C528AD078900678943 /* AppDelegate.m */,
-				E96B24C128AD077F00678943 /* ViewController.h */,
-				E96B24C228AD077F00678943 /* ViewController.m */,
 				E96B24BE28AD077600678943 /* MetalLive2DViewController.h */,
 				E96B24BF28AD077600678943 /* MetalLive2DViewController.m */,
 			);
@@ -541,7 +536,6 @@
 				E96B1D8928ACDE6700678943 /* Sources */,
 				E96B1D8A28ACDE6700678943 /* Frameworks */,
 				E96B1D8B28ACDE6700678943 /* Resources */,
-				9FBA780B41A2E407741146E9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -620,23 +614,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9FBA780B41A2E407741146E9 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Live2DNewTest/Pods-Live2DNewTest-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Live2DNewTest/Pods-Live2DNewTest-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Live2DNewTest/Pods-Live2DNewTest-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -675,7 +652,6 @@
 				E96B252A28AD0AE000678943 /* CubismPose.cpp in Sources */,
 				E96B254528AD0AE000678943 /* CubismMotionQueueEntry.cpp in Sources */,
 				E96B252F28AD0AE000678943 /* CubismId.cpp in Sources */,
-				E96B24C328AD077F00678943 /* ViewController.m in Sources */,
 				E96B254028AD0AE000678943 /* CubismMotion.cpp in Sources */,
 				E96B249828AD067800678943 /* L2DMetalRender.mm in Sources */,
 				E96B254128AD0AE000678943 /* CubismMotionManager.cpp in Sources */,

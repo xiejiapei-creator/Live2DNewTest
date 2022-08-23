@@ -7,7 +7,7 @@
 
 
 #import "AppDelegate.h"
-#import "ViewController.h"
+#import "MetalLive2DViewController.h"
 #include "L2DCubism.h"
 
 @interface AppDelegate ()
@@ -20,7 +20,7 @@
 
     UIWindow *window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     window.backgroundColor = [UIColor whiteColor];
-    ViewController *vc = [[ViewController alloc] init];
+    MetalLive2DViewController *vc = [[MetalLive2DViewController alloc] init];
     window.rootViewController = [[UINavigationController alloc] initWithRootViewController:vc];
     [window makeKeyAndVisible];
     self.window = window;
